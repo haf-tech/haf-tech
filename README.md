@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **haf-tech/haf-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+### 👋 About me
 
 Architect, Developer, Consultant...all the roles to successfully realize an IT project from the idea to the smooth operation.
 Working as Senior Application Architect, with one specialisation as Red Hat Certified Architect, and support to create and bring the application into the cloud.
