@@ -28,7 +28,6 @@ I am interested in all topics in the surrounding area of
 * Cloud in general, Kubernetes, Openshift and IBM Cloud in specific
 * JEE, Node.js
 * AI
-* *
 
 - 💬 Ask me about
 * Kubernetes
