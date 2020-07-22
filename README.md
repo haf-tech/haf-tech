@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- About me
+### About me
 
 Architect, Developer, Consultant...all the roles to successfully realize an IT project from the idea to the smooth operation.
 Working as Senior Application Architect, with one specialisation as Red Hat Certified Architect, and support to create and bring the application into the cloud.
@@ -29,14 +29,14 @@ I am interested in all topics in the surrounding area of
 * JEE, Node.js
 * AI
 
-- 💬 Ask me about
+### 💬 Ask me about
 * Kubernetes
 * OpenShift, IBM Cloud
 * Cloud Native Development
 * Microservices
 * and all the other topics related from the repositories and articles
 
-- 📫 Good to know:
+### 📫 Good to know:
 
 * <https://my.center-of.info>
 * <https://developer.ibm.com/?s=Hafid+Haddouti>
