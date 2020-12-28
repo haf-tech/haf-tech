@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋 About me
 
 Architect, Developer, Consultant...all the roles to successfully realize an IT project from the idea to the smooth operation.
-Working as Senior Application Architect, with one specialisation as Red Hat Certified Architect, and support to create and bring the application into the cloud.
+Working as Senior Application Architect, with one specialisation as Red Hat Certified Architect, advise and support to build, modernize and move workloads/applications into the cloud.
 
 I am interested in all topics in the surrounding area of
 
@@ -25,6 +25,7 @@ I am interested in all topics in the surrounding area of
 * Microservices
 * Cloud-Native, Kubernetes-Native
 * Cloud in general, Kubernetes, Openshift and IBM Cloud in specific
+* Automation
 * JEE, Node.js
 * AI
 
@@ -33,6 +34,7 @@ I am interested in all topics in the surrounding area of
 * OpenShift, IBM Cloud
 * Cloud Native Development
 * Microservices
+* Automation
 * and all the other topics related from the repositories and articles
 
 ### 📫 Good to know:
