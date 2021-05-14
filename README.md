@@ -40,4 +40,4 @@ I am interested in all topics in the surrounding area of
 ### 📫 Good to know:
 
 * <https://my.center-of.info>
-* <https://developer.ibm.com/?s=Hafid+Haddouti>
+* <https://developer.ibm.com/profiles/hafid.haddouti/>
