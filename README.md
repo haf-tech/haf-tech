@@ -24,6 +24,7 @@ I am interested in all topics in the surrounding area of
 * Architecture
 * Microservices
 * Cloud-Native, Kubernetes-Native
+* GitOps, Software Supply Chain
 * Cloud in general, Kubernetes, Openshift and IBM Cloud in specific
 * Automation
 * JEE, Node.js
@@ -34,6 +35,7 @@ I am interested in all topics in the surrounding area of
 * OpenShift, IBM Cloud
 * Cloud Native Development
 * Microservices
+* GitOps, Secured Software Supply Chain
 * Automation
 * and all the other topics related from the repositories and articles
 
