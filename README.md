@@ -42,4 +42,5 @@ I am interested in all topics in the surrounding area of
 ### 📫 Good to know:
 
 * <https://my.center-of.info>
+* <https://sessionize.com/Hafid-Haddouti/>
 * <https://developer.ibm.com/profiles/hafid.haddouti/>
